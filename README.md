@@ -71,7 +71,7 @@ determine the minmum and maximum number of cluster.
 
 <img src="https://github.com/mohamedabodonia/Extract-Transform-and-load-data-ETL-with-AWS-EMR/blob/main/workspace.jpeg?raw=true">
 
-* Jupiter notebook:enable to write a py spark code
+* Jupiter notebook:enable to write a pyspark code
 
 <img src="https://github.com/mohamedabodonia/Extract-Transform-and-load-data-ETL-with-AWS-EMR/blob/main/jupiter%20notebook.jpeg?raw=true">
 
