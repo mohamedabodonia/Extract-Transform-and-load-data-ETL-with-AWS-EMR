@@ -75,6 +75,11 @@ determine the minmum and maximum number of cluster.
 
 <img src="https://github.com/mohamedabodonia/Extract-Transform-and-load-data-ETL-with-AWS-EMR/blob/main/jupiter%20notebook.jpeg?raw=true">
 
+## Concolusion
 
+* USing AWS EMR as an ETL tool as store file of Big data in S3 storage.
+* then, using jupiter notebook to write a pysprk code to made transformation on data.
+* save the transformed data in S3 storage.
+  
 
 
